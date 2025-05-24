@@ -122,8 +122,8 @@ export default function HomePage() {
             <p>How young entrepreneurs are reshaping the agricultural landscape in Kenya through innovation and agribusiness.</p>
           </div>
           <div className="bg-gray-100 p-6 rounded-xl shadow">
-            <h3 className="text-xl font-semibold mb-2 text-lime-600">Success Story: Wanjiku’s Tomato Empire</h3>
-            <p>Read about a farmer’s journey from selling to local markets to exporting value-added produce.</p>
+            <h3 className="text-xl font-semibold mb-2 text-lime-600">Success Story: Wanjikuâ€™s Tomato Empire</h3>
+            <p>Read about a farmerâ€™s journey from selling to local markets to exporting value-added produce.</p>
           </div>
         </div>
       </section>
@@ -159,7 +159,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="bg-black text-lime-400 py-8 text-center">
-        <p>&copy; {new Date().getFullYear()} Lima Kenya. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Lima Kenya 2025. All rights reserved.</p>
       </footer>
     </div>
   );
